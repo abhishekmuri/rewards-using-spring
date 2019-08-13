@@ -1,6 +1,6 @@
 # rewards-using-spring
 
-##Technologies used for this project:  Spring Boot, H2, Maven
+## Technologies used for this project:  Spring Boot, H2, Maven
 
 Please follow the below steps 
 1)	Do maven clean install 
